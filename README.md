@@ -42,11 +42,11 @@ src/test/java/.../GreetingTest.java  test ตัวอย่าง (JUnit 6 + As
 
 Lab L1 checklist.
 
-- [✔] build เขียว: `./mvnw -B verify` ผ่านบนเครื่องของคุณ (build is green)
-- [✔] commit แดง: เพิ่ม `FizzBuzzTest` แล้ว commit ตอนที่ test ยังไม่ผ่าน (red commit)
-- [✔] commit เขียว: เขียน `FizzBuzz` ให้ test ผ่าน แล้ว commit (green commit)
-- [✔] push แล้ว CI เขียวบน GitHub (push and CI is green)
-- [✔] กรอก `docs/L1.md` ครบ (lab passport filled in)
+- [✅] build เขียว: `./mvnw -B verify` ผ่านบนเครื่องของคุณ (build is green)
+- [✅] commit แดง: เพิ่ม `FizzBuzzTest` แล้ว commit ตอนที่ test ยังไม่ผ่าน (red commit)
+- [✅] commit เขียว: เขียน `FizzBuzz` ให้ test ผ่าน แล้ว commit (green commit)
+- [✅] push แล้ว CI เขียวบน GitHub (push and CI is green)
+- [✅] กรอก `docs/L1.md` ครบ (lab passport filled in)
 
 ## ที่มาของเครื่องมือ
 
